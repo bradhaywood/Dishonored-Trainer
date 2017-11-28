@@ -1,1 +1,4 @@
 Release/
+*.vcxproj*
+stdafx.*
+targetver.h
